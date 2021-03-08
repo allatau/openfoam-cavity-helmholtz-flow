@@ -1,6 +1,9 @@
+export $(cat .env)
+
 # Paths
 CASE_PATH="./prepared_case"
-SALOME_PATH="/home/dealenx/salome/appli_V9_3_0"
+
+export $(cat ../.env)
 
 
 # Variables
