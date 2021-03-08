@@ -1,6 +1,11 @@
 # Введение
 
 Кейс для пакет OpenFoam с возможностью генерации сетки в salome без запуска декстоп-приложения. Кейс подготовлен для [Simput](https://github.com/Kitware/simput).
+<br /><br />
+![Viz](https://snipboard.io/r43DFb.jpg)
+<center style="margin-top: -10px;">Визуализация</center>
+<br />
+
 
 # Зависимости
 
